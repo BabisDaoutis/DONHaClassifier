@@ -1,4 +1,4 @@
-# GalActivityClassifier
+# DONHa activity classsifer/decomposition for galaxies
 Random Forest mid-IR-optical broad-band galaxy activity classifier
 
 Repository for galaxy activity clasifier from the paper "Title"\
