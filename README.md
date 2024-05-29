@@ -1,6 +1,6 @@
 # DONHa_classifier
 
-The DONHa (D4000 [OIII] [NII] H$\alpha$) activity classsifer - decomposing galaxy activity
+The DONHa (D4000, [OIII], [NII], and H$\alpha$) activity classsifer - decomposing galaxy activity
 
 A Random Forest-based, 4-dimensional galaxy activity classifier 
 
