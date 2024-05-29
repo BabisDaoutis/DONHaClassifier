@@ -1,8 +1,8 @@
 # DONHa_classifier
 
-DONHa activity classsifer - decomposing galaxy activity
+The DONHa (D4000 [OIII] [NII] H$\alpha$) activity classsifer - decomposing galaxy activity
 
-Random Forest mid-IR-optical broad-band galaxy activity classifier
+A Random Forest-based, 4-dimensional galaxy activity classifier 
 
 Repository for galaxy activity clasifier from the paper "Novel diagnostic methods for resolving galaxy activity: From
 seagull to hummingbird"\
