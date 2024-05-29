@@ -4,7 +4,8 @@ DONHa activity classsifer - decomposing galaxy activity
 
 Random Forest mid-IR-optical broad-band galaxy activity classifier
 
-Repository for galaxy activity clasifier from the paper "Title"\
+Repository for galaxy activity clasifier from the paper "Novel diagnostic methods for resolving galaxy activity: From
+seagull to hummingbird"\
 Astronomy & Astrophysics\
 ArXiv: \
 ADS:  \
