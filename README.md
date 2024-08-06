@@ -12,7 +12,7 @@ ADS:  \
 Publisher (A&A): 
 
 **Authors:**\
-C. Daoutis, A. Zezas, E. Kyritsis, K. Kouroumpatzakis, and S. Salim
+C. Daoutis, A. Zezas, E. Kyritsis, K. Kouroumpatzakis, and P. Bonfini
 
 ### Abstract 
 **Context.**  One of the principal challenges in astrophysics involves the classification of galaxies based on their activity. Presently, the characterization of galactic activity relies on diagnostics that do not fully cover the diverse spectrum of galaxy activity types. Additionally, degeneracies arising from the selected discriminating features hinder the attainment of a definitive characterization, particularly in the case of galaxies exhibiting mixed activity.\
