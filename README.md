@@ -1,4 +1,4 @@
-# DONHaclassifier
+# DONHa classifier
 
 The DONHa (D4000, [OIII], [NII], and Hα) activity classsifer - decomposing galaxy activity
 
