@@ -23,3 +23,12 @@ C. Daoutis, A. Zezas, E. Kyritsis, K. Kouroumpatzakis, and P. Bonfini
 
 ### Application of the model
 
+```
+conda create --name DONHaclassifier python==3.11.5
+conda activate DONHaclassifier
+conda install scikit-learn==1.4.0
+conda install astropy==5.3.3
+conda install matplotlib==3.7.3
+conda install pandas==2.2.2
+conda install jupyter notebook
+```
