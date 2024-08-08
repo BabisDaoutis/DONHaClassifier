@@ -23,6 +23,10 @@ C. Daoutis, A. Zezas, E. Kyritsis, K. Kouroumpatzakis, and P. Bonfini
 
 ### Application of the model
 
+<br>
+
+Given the significant dependency on specific versions of Python packages, we recommend that users create a conda environment where all required packages are installed according to the versions with which this code has been successfully tested. Detailed instructions for creating the appropriate conda environment are provided below:
+
 ```
 conda create --name DONHaclassifier python==3.11.5
 conda activate DONHaclassifier
