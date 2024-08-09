@@ -23,8 +23,22 @@ C. Daoutis, A. Zezas, E. Kyritsis, K. Kouroumpatzakis, and P. Bonfini
 
 ### Application of the model
 
+- **Output of classifier**\
+Once the model has been applied to your galaxy catalog, a new column labeled 'classification' will show each galaxy's activity class. The classification labels are encoded numerically, with each number representing a distinct activity class. Below is a legend explaining the meaning of these numerical codes. \
+**Classification legend** \
+0 - Pure star forming \
+1 - Pure AGN \
+2 - Pure passive \
+3 - Starburst-AGN \
+4 - AGN-starburst \
+5 - Starburst-passive \
+6 - Passive-starburst \
+7 - Passive-AGN \
+8 - AGN-passive \
+-1 - Unclassified (no result) \
 <br>
-
+For more detailes about the idividual classes see the paper.
+<br>
 Given the significant dependency on specific versions of Python packages, we recommend that users create a conda environment where all required packages are installed according to the versions with which this code has been successfully tested. Detailed instructions for creating the appropriate conda environment are provided below:
 
 ```
