@@ -23,6 +23,8 @@ C. Daoutis, A. Zezas, E. Kyritsis, K. Kouroumpatzakis, and P. Bonfini
 
 ### Application of the model
 
+This repository includes all the necessary files and a Jupyter notebook as an example of application. The pre-trained random forest model for implementing the algorithm described in the referenced paper is the 'DONHa_classifier.sav'. We have provided a test file named 'test_sample_galaxies.csv' to verify that your code is functioning correctly. To classify the activity of galaxies in your own catalog, simply replace this test file with your catalog. Supported formats for your catalog are 'fits' or 'csv'.
+
 - **Output of classifier**\
 Once the model has been applied to your galaxy catalog, a new column labeled 'classification' will show each galaxy's activity class. The classification labels are encoded numerically, with each number representing a distinct activity class. Below is a legend explaining the meaning of these numerical codes. \
 **Classification legend** \
