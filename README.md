@@ -35,7 +35,7 @@ Once the model has been applied to your galaxy catalog, a new column labeled 'cl
 6 - Passive-starburst \
 7 - Passive-AGN \
 8 - AGN-passive \
--1 - Unclassified (no result) \
+-1 - Unclassified (no result) 
 <br>
 For more detailes about the idividual classes see the paper.
 <br>
