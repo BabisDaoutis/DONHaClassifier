@@ -44,11 +44,11 @@ For more detailes about the definition of each activity class see Table 3 of the
 Given the significant dependency on specific versions of Python packages, we recommend that users create a conda environment where all required packages are installed according to the versions with which this code has been successfully tested. Detailed instructions for creating the appropriate conda environment are provided below:
 
 ```
-conda create --name DONHaclassifier python==3.11.5
+conda create --name DONHaclassifier python
 conda activate DONHaclassifier
-conda install scikit-learn==1.4.0
-conda install astropy==5.3.3
-conda install matplotlib==3.7.3
+conda install scikit-learn==1.5.1
+conda install astropy==1.5.1
+conda install matplotlib==3.8.4
 conda install pandas==2.2.2
 conda install jupyter notebook
 ```
