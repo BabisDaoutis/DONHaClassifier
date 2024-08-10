@@ -39,7 +39,7 @@ Once the model has been applied to your galaxy catalog, a new column labeled 'cl
 8 - AGN-passive \
 -1 - Unclassified (no result) 
   
-For more detailes about the idividual classes see the paper. 
+For more detailes about the definition of each activity classes see Table 3 of the paper. 
 
 Given the significant dependency on specific versions of Python packages, we recommend that users create a conda environment where all required packages are installed according to the versions with which this code has been successfully tested. Detailed instructions for creating the appropriate conda environment are provided below:
 
