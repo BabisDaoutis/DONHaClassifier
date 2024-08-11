@@ -48,7 +48,7 @@ Run the *environment.yml* file:
 ```
 git clone https://github.com/BabisDaoutis/DONHaClassifier.git
 ```
-Navigate to the folder where the *environment.yml* file is
+Navigate to the folder where the *environment.yml* file is located
 ```
 conda env create -f environment.yml
 ```
