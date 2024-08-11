@@ -43,6 +43,19 @@ For more detailes about the definition of each activity class see Table 3 of the
 
 Given the significant dependency on specific versions of Python packages, we recommend that users create a conda environment where all required packages are installed according to the versions with which this code has been successfully tested. Detailed instructions for creating the appropriate conda environment are provided below:
 
+**Option 1:**
+Run the *environment.yml* file:
+```
+git clone https://github.com/BabisDaoutis/DONHaClassifier.git
+```
+Navigate to the folder where the *environment.yml* file is
+```
+conda env create -f environment.yml
+```
+
+**Option 2:**
+In case there are issues running the *environment.yml*, you can run the following commands in a terminal one by one:
+
 ```
 conda create --name DONHaclassifier python==3.12.4
 conda activate DONHaclassifier
