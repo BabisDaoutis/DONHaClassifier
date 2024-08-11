@@ -1,0 +1,12 @@
+name: DONHaclassifier
+channels:
+  - defaults
+dependencies:
+  - python=3.12.4
+  - scikit-learn=1.5.1
+  - numpy=1.26.4
+  - astropy=6.1.0
+  - matplotlib=3.8.4
+  - pandas=2.2.2
+  - jupyter
+
