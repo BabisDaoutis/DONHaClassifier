@@ -7,7 +7,7 @@ A Random Forest-based, 4-dimensional galaxy activity classifier
 Repository for galaxy activity classifier from the paper "Novel diagnostic methods for resolving galaxy activity: From
 seagull to hummingbird"\
 Astronomy & Astrophysics\
-ArXiv: (https://arxiv.org/abs/2411.08983) \
+ArXiv: https://arxiv.org/abs/2411.08983 \
 ADS: TBD \
 Publisher (A&A): TBD
 
