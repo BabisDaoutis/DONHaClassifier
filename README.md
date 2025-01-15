@@ -8,8 +8,8 @@ Repository for galaxy activity classifier from the paper "Novel diagnostic metho
 seagull to hummingbird"\
 Astronomy & Astrophysics\
 ArXiv: https://arxiv.org/abs/2411.08983 \
-ADS: TBD \
-Publisher (A&A): TBD
+ADS: https://ui.adsabs.harvard.edu/abs/2025A%26A...693A..95D/abstract \
+Publisher (A&A): https://www.aanda.org/articles/aa/full_html/2025/01/aa51323-24/aa51323-24.html
 
 **Authors:**\
 C. Daoutis, A. Zezas, E. Kyritsis, K. Kouroumpatzakis, and P. Bonfini
