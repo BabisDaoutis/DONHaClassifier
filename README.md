@@ -36,7 +36,7 @@ Once the model has been applied to your galaxy catalog, a new column labeled 'cl
 6 - Passive-starburst \
 7 - Passive-AGN \
 8 - AGN-passive \
--1 - Unclassified (no result) 
+-1 - Inconclusive (no result) 
   
 For more detailes about the definition of each activity class see Table 3 of the paper. 
 
