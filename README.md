@@ -4,8 +4,7 @@ The DONHa (D4000, [OIII], [NII], and Hα) activity classifer - decomposing galax
 
 A Random Forest-based, 4-dimensional galaxy activity classifier 
 
-Repository for galaxy activity classifier from the paper "Novel diagnostic methods for resolving galaxy activity: From
-seagull to hummingbird"\
+Repository for galaxy activity classifier from the paper "From seagull to hummingbird: New diagnostic methods for resolving galaxy activity"\
 Astronomy & Astrophysics\
 ArXiv: https://arxiv.org/abs/2411.08983 \
 ADS: https://ui.adsabs.harvard.edu/abs/2025A%26A...693A..95D/abstract \
